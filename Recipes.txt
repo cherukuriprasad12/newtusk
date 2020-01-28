@@ -6,4 +6,8 @@ node
 express
 mongodb
 
+jsx
+xhr
+
 javascript
+
